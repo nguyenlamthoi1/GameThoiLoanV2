@@ -1,0 +1,171 @@
+{
+  "ID": "5741fc8b-35e1-49c8-84af-4d6dc9874642",
+  "Version": "3.10.0.0",
+  "Name": "Bar",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 124,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/res_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -70.0,
+            "RightMargin": -70.0,
+            "TopMargin": -18.0,
+            "BottomMargin": -18.0,
+            "Tag": 125,
+            "Children": [
+              {
+                "LabelText": "123",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "Fonts/fista_20_non.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 119.0,
+                  "Y": 18.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.85,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1714,
+                  "Y": 0.5833
+                },
+                "LeftMargin": 95.0,
+                "RightMargin": 21.0,
+                "TopMargin": 7.5,
+                "BottomMargin": 7.5,
+                "Tag": 33,
+                "ActionTag": 1014987193,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 21.0
+                },
+                "Name": "numberLabel",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1282169727,
+            "Size": {
+              "X": 140.0,
+              "Y": 36.0
+            },
+            "Name": "numberBar",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/icon_gold_bar.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 11,
+            "Scale9OriginY": 12,
+            "Scale9Width": 14,
+            "Scale9Height": 14,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 70.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 52.0,
+            "RightMargin": -88.0,
+            "TopMargin": -19.0,
+            "BottomMargin": -19.0,
+            "Tag": 127,
+            "ActionTag": -1799068501,
+            "Size": {
+              "X": 36.0,
+              "Y": 38.0
+            },
+            "Name": "resIcon",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/fista_20_non.fnt",
+        "../Fonts/fista_20_non.png",
+        "../GUIs/shop_gui/icon_gold_bar.png",
+        "../GUIs/shop_gui/res_bar.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

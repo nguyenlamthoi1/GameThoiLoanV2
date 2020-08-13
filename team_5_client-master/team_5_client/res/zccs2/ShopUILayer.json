@@ -1,0 +1,217 @@
+{
+  "ID": "b6456d52-d206-488a-a689-acd1e344d94b",
+  "Version": "3.10.0.0",
+  "Name": "ShopUILayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 131,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/nen2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 264,
+            "Scale9OriginY": 158,
+            "Scale9Width": 272,
+            "Scale9Height": 164,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1.0902,
+              "Y": -3.2715
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0014,
+              "Y": -0.0068
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1.0902,
+            "RightMargin": -1.0902,
+            "TopMargin": 3.2715,
+            "BottomMargin": -3.2715,
+            "Tag": 132,
+            "ActionTag": -1240010737,
+            "Size": {
+              "X": 800.0,
+              "Y": 480.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/close.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 17,
+            "Scale9Height": 25,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 766.5,
+              "Y": 445.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9581,
+              "Y": 0.9281
+            },
+            "PreSize": {
+              "X": 0.0587,
+              "Y": 0.0979
+            },
+            "HorizontalEdge": "RightEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 743.0,
+            "RightMargin": 10.0,
+            "TopMargin": 11.0,
+            "BottomMargin": 422.0,
+            "Tag": 135,
+            "ActionTag": 2052078691,
+            "Size": {
+              "X": 47.0,
+              "Y": 47.0
+            },
+            "Name": "closeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/back.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 44,
+            "Scale9Height": 25,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 47.0,
+              "Y": 445.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0587,
+              "Y": 0.9281
+            },
+            "PreSize": {
+              "X": 0.0925,
+              "Y": 0.0979
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 10.0,
+            "RightMargin": 716.0,
+            "TopMargin": 11.0,
+            "BottomMargin": 422.0,
+            "Tag": 137,
+            "ActionTag": -512974029,
+            "Size": {
+              "X": 74.0,
+              "Y": 47.0
+            },
+            "VisibleForFrame": false,
+            "Name": "backBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 480.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../GUIs/shop_gui/back.png",
+        "../GUIs/shop_gui/close.png",
+        "../GUIs/shop_gui/nen2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,283 @@
+{
+  "ID": "ea5388c2-299a-4fba-958b-f75446d5841c",
+  "Version": "3.10.0.0",
+  "Name": "shopItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 10,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/slot_catalogy.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 79,
+            "Scale9OriginY": 61,
+            "Scale9Width": 83,
+            "Scale9Height": 64,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -120.5,
+            "RightMargin": -120.5,
+            "TopMargin": -93.0,
+            "BottomMargin": -93.0,
+            "Tag": 11,
+            "ActionTag": 483135905,
+            "Size": {
+              "X": 241.0,
+              "Y": 186.0
+            },
+            "Name": "catSlot",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/catalogy_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -120.5,
+            "RightMargin": -120.5,
+            "TopMargin": -93.0,
+            "BottomMargin": -93.0,
+            "Tag": 12,
+            "ActionTag": -997847130,
+            "Size": {
+              "X": 241.0,
+              "Y": 186.0
+            },
+            "Name": "catBack",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/type_army.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 79,
+            "Scale9OriginY": 61,
+            "Scale9Width": 83,
+            "Scale9Height": 64,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -120.5,
+            "RightMargin": -120.5,
+            "TopMargin": -93.0,
+            "BottomMargin": -93.0,
+            "Tag": 13,
+            "ActionTag": 565354033,
+            "Size": {
+              "X": 241.0,
+              "Y": 186.0
+            },
+            "Name": "catImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/title_background.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 196,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -76.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -113.0,
+            "RightMargin": -113.0,
+            "TopMargin": 49.5,
+            "BottomMargin": -102.5,
+            "Tag": 110,
+            "Children": [
+              {
+                "LabelText": "title",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "Fonts/soji_20.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.0,
+                  "Y": 26.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2788,
+                  "Y": 0.6038
+                },
+                "LeftMargin": 81.5,
+                "RightMargin": 81.5,
+                "TopMargin": 10.5,
+                "BottomMargin": 10.5,
+                "Tag": 111,
+                "ActionTag": -286349296,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 32.0
+                },
+                "Name": "catTitle",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1658393232,
+            "Size": {
+              "X": 226.0,
+              "Y": 53.0
+            },
+            "Name": "catTitleBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../Fonts/soji_20.fnt",
+        "../Fonts/soji_20.png",
+        "../GUIs/shop_gui/catalogy_bg.png",
+        "../GUIs/shop_gui/slot_catalogy.png",
+        "../GUIs/shop_gui/title_background.png",
+        "../GUIs/shop_gui/type_army.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

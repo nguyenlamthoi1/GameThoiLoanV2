@@ -1,0 +1,80 @@
+{
+  "ID": "a18fe410-6e1e-47d7-891c-0c06724aa8be",
+  "Version": "3.10.0.0",
+  "Name": "Layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 133,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GUIs/shop_gui/nen2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 264,
+            "Scale9OriginY": 158,
+            "Scale9Width": 272,
+            "Scale9Height": 164,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 192.0,
+              "Y": 64.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.2,
+              "Y": 0.1
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.6,
+              "Y": 0.8
+            },
+            "LeftMargin": 192.0,
+            "RightMargin": 192.0001,
+            "TopMargin": 64.0001,
+            "BottomMargin": 64.0,
+            "Tag": 135,
+            "ActionTag": -66356966,
+            "Size": {
+              "X": 575.9999,
+              "Y": 512.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../GUIs/shop_gui/nen2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
